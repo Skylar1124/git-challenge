@@ -1,1 +1,5 @@
-# git-challenge
+あ
+か
+さ
+た
+な
